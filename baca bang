@@ -1,0 +1,19 @@
+bantu gua 100 subrek
+
+buy sc hubungi nomor di bawah :
+Wa.me//6287772961550
+bantu request fitur bang plis ke mungkinan akan saya tambahin fitur welcome gg fitur 500+ lebih mas tak usahkan mas yo terima kasih
+
+
+command termux
+pkg update && pkg upgrade
+pkg install nodejs
+pkg install ffmpeg
+pkg install imagemagick
+pkg install libwebp
+termux-setup-storage
+cd /sdcard
+cd V4VENOMBOT
+npm start
+
+Jangan Lupa Subscribe Channel Gua (YT EDIT 3D)
